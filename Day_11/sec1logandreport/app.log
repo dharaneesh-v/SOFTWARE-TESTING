@@ -1,0 +1,12 @@
+2024-04-29 14:20:04 INFO  Spencer:114 - view all
+  2024-04-29 14:20:04 INFO  Spencer:116 - edible oil
+  2024-04-29 14:20:09 WARN  Spencer:118 - Wait for  5 sec
+  2024-04-29 14:20:09 INFO  Spencer:121 - Testcase 2 terminated
+  2024-04-29 14:20:17 INFO  Spencer:139 - open URL
+  2024-04-29 14:20:17 INFO  Spencer:143 - Profile
+  2024-04-29 14:20:18 WARN  Spencer:147 - Wait for  20 sec
+  2024-04-29 14:20:18 INFO  Spencer:149 - Log in
+  2024-04-29 14:20:18 INFO  Spencer:158 - email
+  2024-04-29 14:20:19 INFO  Spencer:163 - pass
+  2024-04-29 14:20:22 INFO  Spencer:171 - Testcase 3 terminated
+  
